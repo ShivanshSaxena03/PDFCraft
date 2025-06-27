@@ -24,7 +24,7 @@ pip install PyPDF2
 
 python merge.py file1.pdf file2.pdf file3.pdf
 
- PDF Page Rotator 🔄
+PDF Rotator:
 
 A simple Python script to rotate the **first page** of a PDF file by 90 degrees and save the result to a new file.
 
